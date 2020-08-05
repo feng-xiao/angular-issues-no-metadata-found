@@ -1,0 +1,1 @@
+ionic capacitor run android --livereload --consolelogs --source-map --watch --external -- --commonChunk=true --aot

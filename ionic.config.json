@@ -1,0 +1,9 @@
+{
+  "name": "Ionic Template Mobile",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e1d7daeb"
+}
